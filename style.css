@@ -1,0 +1,13 @@
+body{
+    background: #00ed23;
+    transition: all 200ms;
+    will-change: background;
+     }
+div{
+    height: 100vh;
+    display: block;
+    width: 100%;
+}
+.clear{
+    clear: both;
+}
